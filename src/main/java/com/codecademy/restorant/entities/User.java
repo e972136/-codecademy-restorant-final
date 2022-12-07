@@ -18,11 +18,7 @@ public class User {
     @Column(unique=true)
     String name;
 
-    String city;
 
-    String state;
-
-    String zipcode;
 
     Boolean interestedPeanut;
 

@@ -20,4 +20,9 @@ public class Restaurant {
 
     String restaurant;
 
+    String city;
+
+    String state;
+
+    String zipcode;
 }

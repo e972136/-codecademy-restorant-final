@@ -29,4 +29,6 @@ public class Review {
     Integer dairy;
 
     String commentary;
+
+    Boolean approved;
 }
